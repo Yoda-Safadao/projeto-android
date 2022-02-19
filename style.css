@@ -1,0 +1,135 @@
+
+
+* {
+    box-sizing : border-box;
+}
+
+body{
+    background-color: aquamarine;
+    margin: 0px;
+}
+
+header{
+    background-image: linear-gradient(180deg,#3DD973,#22733F);
+    padding-top: 1px;
+    padding-bottom: 10px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.445);
+
+}
+
+.cabeça{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.445);
+    
+    
+}
+
+.menu{
+    display: inline-block;
+    padding-right: 10px;
+    border-radius: 5px;
+    margin-left: 10px;
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.445);
+    
+    
+}
+.menu:hover{
+    background-color: white;
+    color: black;
+}
+main{
+    background-color: white;
+    width: 560px;
+    margin:auto;
+    box-shadow: 0px 10px 10px black;
+    border-radius: 0px 0px 5px 5px; 
+    background-size: auto;  
+}
+h3{
+    background-image: linear-gradient(to right,#3DD973,#ffffff);
+    color: #1a5c31;
+    font-size: 22px;
+    margin-left: 10px;
+    
+
+}
+h2{
+    margin-left: 10px ;
+    margin-top: 0px; 
+    padding-top: 10px; 
+}
+p{
+    text-indent: 20px;
+    padding-left: 20px;
+    padding-right: 50px;
+    
+    
+}
+.backgraund-video{
+    background-color: #1a5c31;
+    height: 440px;
+    border-radius: 0%;
+    box-shadow: 0px 0px 0px black;
+    
+}
+.posicionamento{
+    text-align: center;
+    padding-top: 30px;
+}
+.pessoa-com-android{
+    text-align: center;
+}
+.amem{
+    text-align: center;
+    width: 100%;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 0.4cm;
+    border-radius: 5px;
+    margin-top: 30px;
+    
+}
+.lista{
+    display: inline-block;
+    background-color:aquamarine ;
+    width: 530px;
+    margin-left: 15px;
+    
+
+}
+.bloco{
+    background-color: #29914d;
+    color: white;
+    width: 530px;
+    height: 30px;
+    font-size: 20px;
+    margin: auto;
+    margin-top: 10px;
+    padding-left: 5px;
+    border-radius: 7px 7px 0px 0px;
+    
+}
+.fila{
+    display: inline-block;
+    width: 250px;
+    margin: auto;
+}
+.fim{
+    padding-bottom: 0.3cm;
+}
