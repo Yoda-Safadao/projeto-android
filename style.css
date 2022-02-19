@@ -51,14 +51,12 @@ h1{
     color: black;
 }
 main{
-    background-color: rgb(255, 255, 255);
+    background-color: white;
+    width: 320px;
+    margin:auto;
     box-shadow: 0px 10px 10px black;
-    border-radius: 0px 0px 5px 5px;
-    display: block;
-    margin: auto;
-
-    
-
+    border-radius: 0px 0px 5px 5px; 
+    background-size: auto;  
 }
 h3{
     background-image: linear-gradient(to right,#3DD973,#ffffff);
@@ -92,7 +90,6 @@ p{
 .posicionamento{
     text-align: center;
     padding-top: 30px;
-    
 }
 .pessoa-com-android{
     text-align: center;
@@ -135,7 +132,6 @@ footer{
     display: inline-block;
     width: 250px;
     margin: auto;
-    
 }
 .fim{
     padding-bottom: 0.3cm;
