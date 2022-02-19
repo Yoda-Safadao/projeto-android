@@ -112,7 +112,6 @@ footer{
     background-color:aquamarine ;
     width: 95%;
     margin-left: 8px;
-    font-size: 1cm;
    
     
 
@@ -133,6 +132,7 @@ footer{
     display: inline-block;
     width: 250px;
     margin: auto;
+    font-size: 00.3cm;
 }
 .fim{
     padding-bottom: 0.3cm;
