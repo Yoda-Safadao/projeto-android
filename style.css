@@ -52,37 +52,34 @@ h1{
 }
 main{
     background-color: white;
-    width: 320px;
+    width: 560px;
     margin:auto;
     box-shadow: 0px 10px 10px black;
-    border-radius: 0px 0px 5px 5px; 
-    background-size: auto;  
+    border-radius: 0px 0px 10px 10px;   
 }
 h3{
     background-image: linear-gradient(to right,#3DD973,#ffffff);
     color: #1a5c31;
-    font-size: 0.4cm;
+    font-size: 22px;
     margin-left: 10px;
-    padding-left: 10px;
-    border-radius: 5px 0px 0px 5px;
+    
 
 }
 h2{
-    margin-left: 20px ;
+    margin-left: 10px ;
     margin-top: 0px; 
     padding-top: 10px; 
-    font-size: 0.5cm;
 }
 p{
     text-indent: 20px;
     padding-left: 20px;
-    padding-right:10px;
+    padding-right: 50px;
     
     
 }
 .backgraund-video{
     background-color: #1a5c31;
-    height: 250px;
+    height: 440px;
     border-radius: 0%;
     box-shadow: 0px 0px 0px black;
     
@@ -96,43 +93,4 @@ p{
 }
 .amem{
     text-align: center;
-    width: 100%;
-}
-footer{
-    background-color: black;
-    color: white;
-    text-align: center;
-    font-size: 0.4cm;
-    border-radius: 5px;
-    margin-top: 30px;
-    
-}
-.lista{
-    display: inline-block;
-    background-color:aquamarine ;
-    width: 95%;
-    margin-left: 8px;
-   
-    
-
-}
-.bloco{
-    background-color: #29914d;
-    color: white;
-    width: 95%;
-    height: 30px;
-    font-size: 20px;
-    margin: auto;
-    margin-top: 10px;
-    padding-left: 5px;
-    border-radius: 7px 7px 0px 0px;
-    
-}
-.fila{
-    display: inline-block;
-    width: 250px;
-    margin: auto;
-}
-.fim{
-    padding-bottom: 0.3cm;
 }
